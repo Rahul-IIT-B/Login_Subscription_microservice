@@ -20,7 +20,6 @@ Implements JWT authentication, PostgreSQL persistence, RabbitMQ events, and foll
 - [Error Handling](#error-handling)
 - [Bonus Features](#bonus-features)
 - [Postman Usage Guide](#postman-usage-guide)
-- [Notes](#notes)
 
 ---
 
@@ -83,7 +82,7 @@ server.js            # Entry point
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Rahul-IIT-B/Login_Subscription_microservice
 cd subscription_backend_assignment
 ```
 
