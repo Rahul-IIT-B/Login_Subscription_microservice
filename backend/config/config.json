@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "R@huls177",
+    "database": "subscription_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}

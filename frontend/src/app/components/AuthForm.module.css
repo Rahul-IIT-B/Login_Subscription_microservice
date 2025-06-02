@@ -1,0 +1,39 @@
+.authContainer {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 2rem;
+}
+
+.authCard {
+  background-color: white;
+  border-radius: var(--border-radius);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  max-width: 480px;
+  overflow: hidden;
+}
+
+.authHeader {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.authHeader h2 {
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.authForm {
+  padding: 2rem;
+}
+
+.authFooter {
+  padding: 1.5rem;
+  background-color: var(--light-gray);
+  text-align: center;
+}

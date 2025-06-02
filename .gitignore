@@ -1,8 +1,12 @@
-.env
+# Node dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/.next/
+
+# Environment variables
+backend/.env
+
+# OS/Editor/IDE
 .vscode/
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.DS_Store
-Thumbs.db
