@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "R@huls177",
+    "password": "password",
     "database": "subscription_db",
     "host": "localhost",
     "dialect": "postgres"
